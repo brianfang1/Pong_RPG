@@ -1,3 +1,5 @@
+Pong RPG
+
 This game requires two players (or hands). Use keys "A" and "D" to move the left paddle left and right.
 Use arrow keys left and right to move the right paddle left and right.
 The objective of the game is to defeat the enemies and progress through the stages. 
